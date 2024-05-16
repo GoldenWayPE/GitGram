@@ -24,7 +24,7 @@
             "value": ""
         },
         "APP_URL": {
-            "description": "Heroku app url, example: https://appname.herokuapp.com",
+            "description": "Vercel app url, example: https://appname.vercel.app.com",
             "value": ""
         }
     }
